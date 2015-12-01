@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/pdehaan/summarizer",
   "dependencies": {
-    "node-summary": "1.0.0",
+    "node-summary": "1.0.1",
     "promise": "5.0.0",
     "summarize": "1.4.0",
     "superagent": "0.18.2",
